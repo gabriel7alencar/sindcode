@@ -52,3 +52,4 @@ A UC visa aplicar metodologias ágeis e tecnologias modernas para a criação de
 - Entre no site: https://www.toptal.com/developers/gitignore/api/django
 - Entre no github crie novo repositorio: https://github.com/gabriel7alencar/sindcode
 - Usar o commit especificando a tarefa do SCRUM :git commit -m "<<codigo-task>> <<mensagem>> <<#status>>"
+- O aplicativo do Django é como se fosse um modulo
