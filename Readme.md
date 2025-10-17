@@ -42,3 +42,13 @@ A UC visa aplicar metodologias ágeis e tecnologias modernas para a criação de
 | **SECRET KEY** | Geração e isolamento da `SECRET_KEY` do Django. |
 | **Dependências** | Instalação da biblioteca `python-dotenv`. |
 | **Código-Chave** | Importação e carregamento da variável de ambiente: <br>```python\nfrom dotenv import load_dotenv\n# pip install python-dotenv\nload_dotenv()\nSECRET_KEY = str(os.getenv("SECRET_KEY"))\n``` |
+
+
+
+#### **Aula 3: Boas práticas**
+
+- 3.1: boas prática da subfunção 2.1
+- 4.4: controle de versãp da subfução 2.1
+- Entre no site: https://www.toptal.com/developers/gitignore/api/django
+- Entre no github crie novo repositorio: https://github.com/gabriel7alencar/sindcode
+- Usar o commit especificando a tarefa do SCRUM :git commit -m "<<codigo-task>> <<mensagem>> <<#status>>"
