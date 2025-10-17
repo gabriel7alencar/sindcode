@@ -51,4 +51,4 @@ A UC visa aplicar metodologias ágeis e tecnologias modernas para a criação de
 - 4.4: controle de versãp da subfução 2.1
 - Entre no site: https://www.toptal.com/developers/gitignore/api/django
 - Entre no github crie novo repositorio: https://github.com/gabriel7alencar/sindcode
-- Usar o commit especificando a tarefa do SCRUM :git commit -m "<<codigo-task>> <<mensagem>> <<#status>>"
+- Usar o commit especificando a tarefa do SCRUM :git commit -m "<<codigo-task>> <<mensagem>> <<#status>>>"
